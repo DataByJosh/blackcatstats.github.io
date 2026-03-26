@@ -1,2 +1,2 @@
-# databyjosh.github.io
+# blackcatstats.github.io
 Repository for Data By Josh website
